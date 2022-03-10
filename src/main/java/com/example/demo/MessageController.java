@@ -12,7 +12,7 @@ import java.util.Optional;
 @RestController
 public class MessageController {
 
-    public static final String BE_SUCCESS_MESSAGE = "BE works ";
+    public static final String BE_SUCCESS_MESSAGE = "BE works!!! ";
     public static final String DB_SUCCESS_MESSAGE = "DB success message: ";
     public static final String DB_ERROR_MESSAGE = "DB error message ";
 
